@@ -57,9 +57,9 @@ Key Features:
 
 ## Models Tested
 Model	AUC	Sensitivity	Specificity	Notes
-Logistic Regression	—	—	—	Baseline model
-K-Nearest Neighbors (KNN)	—	—	—	Most cost-effective
-Random Forest	0.960	86.96%	94.20%	Best performing
+Logistic Regression (Baseline model)
+K-Nearest Neighbors (KNN)	(Most cost-effective)
+Random Forest	(Best Performing)
 
 The Random Forest model demonstrated superior predictive performance and robustness.
 
