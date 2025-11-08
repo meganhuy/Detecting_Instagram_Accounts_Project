@@ -44,7 +44,6 @@ Key Features:
 
 12. Fake Account (Binary: 1 = Fake, 0 = Real)
 
-📊 Exploratory Data Analysis (EDA)
 
 ## Key Findings:
 
